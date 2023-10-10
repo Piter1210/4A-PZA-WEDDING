@@ -14,25 +14,16 @@
 ?>
 <section class="breadcumd__banner">
     <div class="container">
-        <div class="breadcumd__wrapper center">
+        <div class="col-lg-6 wow fadeInDown center">
             <h1 class="left__content">
-                blog single
+                Blog single
             </h1>
-            <ul class="right__content">
+            <ul class="left__thumb">
                 <li>
-                    <a href="index.html">
+                    <a href="index.php?pagina=inicio">
                         Home
                     </a>
                 </li>
-                <li>
-                    <i class="fa-solid fa-chevron-right"></i>
-                </li>
-                <li>
-                    blog
-                </li>
-            </ul>
-        </div>
-    </div>
 </section>
 <!--=========== Breadcumd Section Here ========= -->
 <?php
@@ -89,7 +80,7 @@ if (isset($_GET["id"])) {
                 }
                 </script>';
 
-            echo '<div class="alert-success"> El usuario ha sido actualizado</div>
+            echo '<div class="alert-success">Usuario actalizado</div>
                 <script>
                     setTimeout(function(){
                         window.location = "index.php?pagina=inicio";

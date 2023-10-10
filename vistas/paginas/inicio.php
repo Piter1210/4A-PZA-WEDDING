@@ -102,7 +102,7 @@
                      The wedding day of
                   </h3>
                   <h2 class="celebrate__tittle">
-                     Shakira & Marcos
+                     Ariel & Willian
                   </h2>
                   <h3 class="sub__tittle">
                      Which is celebration on
@@ -260,7 +260,7 @@
                </div>
                <div class="testi__content">
                   <h3>
-                     Shakira Judith
+                     Ariel Judith
                   </h3>
                   <p>
                      It is a long established fact that a reader will be distracted by the readable content of a page
@@ -343,7 +343,7 @@
                         </h4>
                         <div class="wedding__button">
                            <a href="#0" class="cmn--btn">
-                              see map
+                              See map
                            </a>
                         </div>
                      </div>
@@ -377,7 +377,7 @@
                         </h4>
                         <div class="wedding__button">
                            <a href="#0" class="cmn--btn">
-                              see map
+                              See map
                            </a>
                         </div>
                      </div>
@@ -411,7 +411,7 @@
                         </h4>
                         <div class="wedding__button">
                            <a href="#0" class="cmn--btn">
-                              see map
+                              See map
                            </a>
                         </div>
                      </div>
@@ -456,7 +456,7 @@
    <div class="container">
       <div class="section__header section__center wow fadeInDown" data-wow-duration="4s">
          <h2 class="section__title">
-            from our blog
+            From our blog
          </h2>
          <img src="assets/img/tittle/flower.png" alt="flower__tittle">
       </div>

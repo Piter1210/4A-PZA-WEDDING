@@ -40,25 +40,16 @@
 <!--=========== Breadcumd Section Here ========= -->
 <section class="breadcumd__banner">
    <div class="container">
-      <div class="breadcumd__wrapper center">
+      <div class="col-lg-6 wow fadeInDown center">
          <h1 class="left__content">
-           our gallery
+           Our gallery
          </h1>
-         <ul class="right__content">
+         <ul class="left__thumb">
             <li>
-               <a href="index.html">
+               <a href="index.php?pagina=inicio">
                   Home
                </a>
             </li>
-            <li>
-               <i class="fa-solid fa-chevron-right"></i>
-            </li>
-            <li>
-               gallery
-            </li>
-         </ul>
-      </div>
-   </div>
 </section>
 <!--=========== Breadcumd Section Here ========= -->
 
@@ -92,7 +83,7 @@
                      The wedding day of
                   </h3>
                   <h2 class="celebrate__tittle">
-                     Shakira & Deniel
+                     Ariel & Willian
                   </h2>
                   <h3 class="sub__tittle">
                      Which is celebration on

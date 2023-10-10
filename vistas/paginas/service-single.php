@@ -40,25 +40,16 @@
 <!--=========== Breadcumd Section Here ========= -->
 <section class="breadcumd__banner">
    <div class="container">
-      <div class="breadcumd__wrapper center">
+      <div class="col-lg-6 wow fadeInDown center">
          <h1 class="left__content">
             Service single
          </h1>
-         <ul class="right__content">
+         <ul class="left__thumb">
             <li>
-               <a href="index.html">
+               <a href="index.php?pagina=inicio">
                   Home
                </a>
             </li>
-            <li>
-               <i class="fa-solid fa-chevron-right"></i>
-            </li>
-            <li>
-               Service
-            </li>
-         </ul>
-      </div>
-   </div>
 </section>
 <!--=========== Breadcumd Section Here ========= -->
 
@@ -73,7 +64,7 @@
                </div>
                <div class="single__content">
                   <h3>
-                     wedding photography
+                     Wedding photography
                   </h3>
                   <p>
                      The wedding service usually begins with a prelude of music, as guests are seated and the wedding party enters the ceremony location. The wedding party may include the bride and groom, their parents, bridesmaids, groomsmen, flower girls, and ring bearers. The processional is the entrance of the wedding party and is usually accompanied by music. The bride may choose to have a separate processional, with her father or another significant family member escorting her down the aisle to the altar or ceremonial location.A wedding is one of the most significant events in a couple's life, a celebration of love, commitment, and the promise of a future together. The wedding ceremony is a sacred and meaningful ritual that brings two people together in marriage, surrounded by family and friends.
@@ -132,17 +123,17 @@
                   <form action="contact.php" id="contact-form" method="POST">
                      <div class="row g-4">
                         <div class="col-lg-6">
-                           <div class="form__clt">
+                           <div class="input-group-text">
                               <input type="text" name="name" id="name" placeholder="Your Name...">
                            </div>
                         </div>
                         <div class="col-lg-6">
-                           <div class="form__clt">
+                           <div class="input-group-text">
                               <input type="text" name="email" id="email" placeholder=" Your Email...">
                            </div>
                         </div>
                         <div class="col-lg-12">
-                           <div class="form__clt">
+                           <div class="input-group-text">
                               <input type="text" name="number" id="number" placeholder="Phone Number...">
                            </div>
                         </div>
@@ -153,7 +144,7 @@
                         </div>
                         <div class="col-lg-12">
                             <button type="submit" class="cmn--btn">
-                                submit comment
+                                Submit comment
                              </button>
                         </div>
                      </div>
@@ -208,7 +199,7 @@
                </div>
                <div class="items__box">
                   <h5 class="box__head mb-4">
-                     tags
+                     Tags
                   </h5>
                   <ul class="tag__list">
                      <li>

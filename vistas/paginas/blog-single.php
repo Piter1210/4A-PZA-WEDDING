@@ -1,25 +1,16 @@
 <!--=========== Breadcumd Section Here ========= -->
 <section class="breadcumd__banner">
    <div class="container">
-      <div class="breadcumd__wrapper center">
+      <div class="col-lg-6 wow fadeInDown center">
          <h1 class="left__content">
-            blog single
+            Blog single
          </h1>
-         <ul class="right__content">
+         <ul class="left__thumb">
             <li>
-               <a href="index.html">
+               <a href="index.php?pagina=inicio">
                   Home
                </a>
             </li>
-            <li>
-               <i class="fa-solid fa-chevron-right"></i>
-            </li>
-            <li>
-               blog
-            </li>
-         </ul>
-      </div>
-   </div>
 </section>
 <!--=========== Breadcumd Section Here ========= -->
 
@@ -34,7 +25,7 @@
                </div>
                <div class="single__content">
                   <h3>
-                     top 10 wedding gifts.
+                     Top 10 wedding gifts.
                   </h3>
                   <ul>
                      <li>
@@ -180,17 +171,17 @@
                   <form action="contact.php" id="contact-form" method="POST">
                      <div class="row g-4">
                         <div class="col-lg-6">
-                           <div class="form__clt">
+                           <div class="input-group-text">
                               <input type="text" name="name" id="name" placeholder="Your Name...">
                            </div>
                         </div>
                         <div class="col-lg-6">
-                           <div class="form__clt">
+                           <div class="input-group-text">
                               <input type="text" name="email" id="email" placeholder=" Your Email...">
                            </div>
                         </div>
                         <div class="col-lg-12">
-                           <div class="form__clt">
+                           <div class="input-group-text">
                               <input type="text" name="number" id="number" placeholder="Phone Number...">
                            </div>
                         </div>
@@ -201,7 +192,7 @@
                         </div>
                         <div class="col-lg-12">
                             <button type="submit" class="cmn--btn">
-                                submit comment
+                                Submit comment
                              </button>
                         </div>
                      </div>
@@ -219,7 +210,7 @@
                   </div>
                   <div class="box__content">
                      <h4>
-                        Shakira mila
+                        Ariel mila
                      </h4>
                      <p>
                         The tradition is based on an Old English rhyme that dates.
@@ -290,7 +281,7 @@
                         <img src="assets/img/blog/single/post1.jpg" alt="post__image">
                      </div>
                      <div class="post__content">
-                        <h6>top 10 wedding gifts</h6>
+                        <h6>Top 10 wedding gifts</h6>
                         <p>Progressively generate extensive competencies rather.</p>
                      </div>
                   </div>
@@ -315,7 +306,7 @@
                </div>
                <div class="items__box">
                   <h5 class="box__head mb-4">
-                     tags
+                     Tags
                   </h5>
                   <ul class="tag__list">
                      <li>

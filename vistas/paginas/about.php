@@ -2,25 +2,16 @@
 <!--=========== Breadcumd Section Here ========= -->
 <section class="breadcumd__banner">
    <div class="container">
-      <div class="breadcumd__wrapper center">
+      <div class="col-lg-6 wow fadeInDown center">
          <h1 class="left__content">
             About us
          </h1>
-         <ul class="right__content">
+         <ul class="left__thumb">
             <li>
-               <a href="index.html">
+               <a href="index.php?pagina=inicio">
                   Home
                </a>
             </li>
-            <li>
-               <i class="fa-solid fa-chevron-right"></i>
-            </li>
-            <li>
-               About
-            </li>
-         </ul>
-      </div>
-   </div>
 </section>
 <!--=========== Breadcumd Section Here ========= -->
 
@@ -48,7 +39,7 @@
                   Few classic color options remain a top choice for brides across the decades as blue. In addition to this color being what some call a good luck charm for the day, it's also a color that symbolized royalty. In addition to this color being what some call a good luck charm for the day, it's also a color that symbolized royalty.
                </p>
                <a href="#0" class="cmn--btn mt-4">
-                  read more
+                  Read more
                </a>
             </div>
          </div>
@@ -134,7 +125,7 @@
                      The wedding day of
                   </h3>
                   <h2 class="celebrate__tittle">
-                     Shakira & Deniel
+                     Ariel & Willian
                   </h2>
                   <h3 class="sub__tittle">
                      Which is celebration on
@@ -226,7 +217,7 @@
                         </h4>
                         <div class="wedding__button">
                            <a href="#0" class="cmn--btn">
-                              see map
+                              See map
                            </a>
                         </div>
                      </div>
@@ -260,7 +251,7 @@
                         </h4>
                         <div class="wedding__button">
                            <a href="#0" class="cmn--btn">
-                              see map
+                              See map
                            </a>
                         </div>
                      </div>
@@ -294,7 +285,7 @@
                         </h4>
                         <div class="wedding__button">
                            <a href="#0" class="cmn--btn">
-                              see map
+                              See map
                            </a>
                         </div>
                      </div>

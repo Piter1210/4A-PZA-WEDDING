@@ -40,25 +40,16 @@
 <!--=========== Breadcumd Section Here ========= -->
 <section class="breadcumd__banner">
    <div class="container">
-      <div class="breadcumd__wrapper center">
+      <div class="col-lg-6 wow fadeInDown center">
          <h1 class="left__content">
-           our story
+           Our story
          </h1>
-         <ul class="right__content">
+         <ul class="left_thumb">
             <li>
-               <a href="index.html">
+               <a href="index.php?pagina=inicio">
                   Home
                </a>
             </li>
-            <li>
-               <i class="fa-solid fa-chevron-right"></i>
-            </li>
-            <li>
-               story
-            </li>
-         </ul>
-      </div>
-   </div>
 </section>
 <!--=========== Breadcumd Section Here ========= -->
 
@@ -120,7 +111,7 @@
    <div class="container">
       <div class="section__header section__center wow fadeInDown" data-wow-duration="4s">
          <h2 class="section__title">
-            our love story
+            Our love story
          </h2>
          <img src="assets/img/tittle/flower.png" alt="flower__tittle">
       </div>

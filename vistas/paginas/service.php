@@ -40,25 +40,17 @@
 <!--=========== Breadcumd Section Here ========= -->
 <section class="breadcumd__banner">
    <div class="container">
-      <div class="breadcumd__wrapper center">
+      <div class="col-lg-6 wow fadeInDown center">
          <h1 class="left__content">
-           our Service
+           Our Service
          </h1>
-         <ul class="right__content">
+         <ul class="left__thumb">
             <li>
-               <a href="index.html">
+               <a href="index.php?pagina=inicio">
                   Home
                </a>
             </li>
-            <li>
-               <i class="fa-solid fa-chevron-right"></i>
-            </li>
-            <li>
-               Service
-            </li>
-         </ul>
-      </div>
-   </div>
+  
 </section>
 <!--=========== Breadcumd Section Here ========= -->
 
@@ -70,7 +62,7 @@
    <div class="container">
       <div class="section__header section__center wow fadeInDown" data-wow-duration="4s">
          <h2 class="section__title">
-           service
+           Service
          </h2>
          <img src="assets/img/tittle/flower.png" alt="flower__tittle">
       </div>
@@ -92,7 +84,7 @@
                      It means so much to witness the joy of your wedding day. Congratulations to you both on finding the perfect person.
                   </p>
                   <a href="service-single.html" class="party__btn">
-                     read more
+                     Read more
                   </a>
                </div>
             </div>
@@ -107,14 +99,14 @@
                <div class="service__content">
                   <h4>
                      <a href="service-single.html">
-                        reception
+                        Reception
                      </a>
                   </h4>
                   <p>
                      It means so much to witness the joy of your wedding day. Congratulations to you both on finding the perfect person.
                   </p>
                   <a href="service-single.html" class="party__btn">
-                     read more
+                     Read more
                   </a>
                </div>
             </div>
@@ -129,14 +121,14 @@
                <div class="service__content">
                   <h4>
                      <a href="service-single.html">
-                       wedding cake
+                       Wedding cake
                      </a>
                   </h4>
                   <p>
                      It means so much to witness the joy of your wedding day. Congratulations to you both on finding the perfect person.
                   </p>
                   <a href="service-single.html" class="party__btn">
-                     read more
+                     Read more
                   </a>
                </div>
             </div>
@@ -151,14 +143,14 @@
                <div class="service__content">
                   <h4>
                      <a href="service-single.html">
-                        wedding post
+                        Wedding post
                      </a>
                   </h4>
                   <p>
                      It means so much to witness the joy of your wedding day. Congratulations to you both on finding the perfect person.
                   </p>
                   <a href="service-single.html" class="party__btn">
-                     read more
+                     Read more
                   </a>
                </div>
             </div>
@@ -173,14 +165,14 @@
                <div class="service__content">
                   <h4>
                      <a href="service-single.html">
-                        wedding ring
+                        Wedding ring
                      </a>
                   </h4>
                   <p>
                      It means so much to witness the joy of your wedding day. Congratulations to you both on finding the perfect person.
                   </p>
                   <a href="service-single.html" class="party__btn">
-                     read more
+                     Read more
                   </a>
                </div>
             </div>
@@ -195,14 +187,14 @@
                <div class="service__content">
                   <h4>
                      <a href="service-single.html">
-                       wedding dress
+                       Wedding dress
                      </a>
                   </h4>
                   <p>
                      It means so much to witness the joy of your wedding day. Congratulations to you both on finding the perfect person.
                   </p>
                   <a href="service-single.html" class="party__btn">
-                     read more
+                     Read more
                   </a>
                </div>
             </div>

@@ -1,28 +1,20 @@
 <section class="breadcumd__banner">
     <div class="container">
-        <div class="breadcumd__wrapper center">
+        <div class="col-lg-6 wow fadeInDown center">
             <h1 class="left__content">
                 Login
             </h1>
-            <ul class="right__content">
+            <ul class="left__thumb">
                 <li>
                     <a href="index.php?pagina=inicio">
                         Home
                     </a>
                 </li>
-                <li>
-                    <i class="fa-solid fa-chevron-right"></i>
-                </li>
-                <li>
-                    Login
-                </li>
-            </ul>
-        </div>
-    </div>
 </section>
-
+<div><i class="fa fa-space-shuttle" aria-hidden="true"></i></div>
+<div class="banner__content center">
+<img src="assets/img/banner/banner-shape2.png" alt="banner__shape">
 <div class="d-flex justify-content-center text-center">
-
     <form class="p-5 bg-light" method="post">
         <div class="form-group">
             <label for="email">Email address:</label>
@@ -51,3 +43,5 @@
     </form>
 
 </div>
+<div class="banner__content center">
+<img src="assets/img/banner/banner-shape3.png" alt="banner__shape">

@@ -17,25 +17,16 @@ $usuarios = ControladorFormularios::ctrSeleccionarRegistros(null, null);
 
 <section class="breadcumd__banner">
     <div class="container">
-        <div class="breadcumd__wrapper center">
+        <div class="col-lg-6 wow fadeInDown center">
             <h1 class="left__content">
                 Guests
             </h1>
-            <ul class="right__content">
+            <ul class="left__thumb">
                 <li>
                     <a href="index.php?pagina=inicio">
                         Home
                     </a>
-                </li>
-                <li>
-                    <i class="fa-solid fa-chevron-right"></i>
-                </li>
-                <li>
-                    Guests
-                </li>
-            </ul>
-        </div>
-    </div>
+    </li>
 </section>
 <div class="conatiner-fluid">
     <div class="container py-5">

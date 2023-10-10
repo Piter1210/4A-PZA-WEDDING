@@ -42,25 +42,16 @@
 <!--=========== Breadcumd Section Here ========= -->
 <section class="breadcumd__banner">
    <div class="container">
-      <div class="breadcumd__wrapper center">
+      <div class="col-lg-6 wow fadeInDown center">
          <h1 class="left__content">
-            our blog
+            Our blog
          </h1>
-         <ul class="right__content">
+         <ul class="left__thumb">
             <li>
-               <a href="index.html">
+               <a href="index.php?pagina=inicio">
                   Home
                </a>
             </li>
-            <li>
-               <i class="fa-solid fa-chevron-right"></i>
-            </li>
-            <li>
-               blog
-            </li>
-         </ul>
-      </div>
-   </div>
 </section>
 <!--=========== Breadcumd Section Here ========= -->
 
@@ -78,7 +69,7 @@
                </div>
                <div class="blog__content">
                   <h4>
-                     <a href="blog-single.html">top 10 gifts</a>
+                     <a href="blog-single.html">Top 10 gifts</a>
                   </h4>
                   <p>
                      The tradition is based on an Old English rhyme that dates back to 19th-century Lancashire.It describes the items a bride should have on her wedding day.
@@ -120,7 +111,7 @@
                      The tradition is based on an Old English rhyme that dates back to 19th-century Lancashire.It describes the items a bride should have on her wedding day.
                   </p>
                   <div class="blog-button mt-2">
-                     <a href="blog-single.html" class="blog-btn">read more</a>
+                     <a href="blog-single.html" class="blog-btn">Read more</a>
                   </div>
                </div>
             </div>
@@ -132,7 +123,7 @@
                </div>
                <div class="blog__content">
                   <h4>
-                     <a href="blog-single.html">top 10 gifts</a>
+                     <a href="blog-single.html">Top 10 gifts</a>
                   </h4>
                   <p>
                      The tradition is based on an Old English rhyme that dates back to 19th-century Lancashire.It describes the items a bride should have on her wedding day.
@@ -156,7 +147,7 @@
                      The tradition is based on an Old English rhyme that dates back to 19th-century Lancashire.It describes the items a bride should have on her wedding day.
                   </p>
                   <div class="blog-button mt-2">
-                     <a href="blog-single.html" class="blog-btn">read more</a>
+                     <a href="blog-single.html" class="blog-btn">Read more</a>
                   </div>
                </div>
             </div>
@@ -174,7 +165,7 @@
                      The tradition is based on an Old English rhyme that dates back to 19th-century Lancashire.It describes the items a bride should have on her wedding day.
                   </p>
                   <div class="blog-button mt-2">
-                     <a href="blog-single.html" class="blog-btn">read more</a>
+                     <a href="blog-single.html" class="blog-btn">Read more</a>
                   </div>
                </div>
             </div>
@@ -186,7 +177,7 @@
                </div>
                <div class="blog__content">
                   <h4>
-                     <a href="blog-single.html">top 10 gifts</a>
+                     <a href="blog-single.html">Top 10 gifts</a>
                   </h4>
                   <p>
                      The tradition is based on an Old English rhyme that dates back to 19th-century Lancashire.It describes the items a bride should have on her wedding day.

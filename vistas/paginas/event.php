@@ -40,25 +40,16 @@
 <!--=========== Breadcumd Section Here ========= -->
 <section class="breadcumd__banner">
    <div class="container">
-      <div class="breadcumd__wrapper center">
+      <div class="col-lg-6 wow fadeInDown center">
          <h1 class="left__content">
-           our event
+           Our event
          </h1>
-         <ul class="right__content">
+         <ul class="left__thumb">
             <li>
-               <a href="index.html">
+               <a href="index.php?pagina=inicio">
                   Home
                </a>
             </li>
-            <li>
-               <i class="fa-solid fa-chevron-right"></i>
-            </li>
-            <li>
-               event
-            </li>
-         </ul>
-      </div>
-   </div>
 </section>
 <!--=========== Breadcumd Section End ========= -->
 
@@ -86,7 +77,7 @@
                   It means so much to witness the joy of your wedding day. Congratulations to you both on finding the perfect person.
                </p>
                <a href="#0" class="party__btn">
-                  read more
+                  Read more
                </a>
             </div>
          </div>
@@ -104,7 +95,7 @@
                   It means so much to witness the joy of your wedding day. Congratulations to you both on finding the perfect person.
                </p>
                <a href="#0" class="party__btn">
-                  read more
+                  Read more
                </a>
             </div>
          </div>
@@ -122,7 +113,7 @@
                   It means so much to witness the joy of your wedding day. Congratulations to you both on finding the perfect person.
                </p>
                <a href="#0" class="party__btn">
-                  read more
+                  Read more
                </a>
             </div>
          </div>
@@ -175,7 +166,7 @@
                         </h4>
                         <div class="wedding__button">
                            <a href="#0" class="cmn--btn">
-                              see map
+                              See map
                            </a>
                         </div>
                      </div>
@@ -209,7 +200,7 @@
                         </h4>
                         <div class="wedding__button">
                            <a href="#0" class="cmn--btn">
-                              see map
+                              See map
                            </a>
                         </div>
                      </div>
@@ -243,7 +234,7 @@
                         </h4>
                         <div class="wedding__button">
                            <a href="#0" class="cmn--btn">
-                              see map
+                              See map
                            </a>
                         </div>
                      </div>
